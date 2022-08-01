@@ -1,0 +1,14 @@
+{
+  "name": "glados-bot",
+  "version": "1.0.0",
+  "description": "Genetic Lifeform and Disk Operating System",
+  "main": "main.py",
+  "scripts": {
+    "test": "boot"
+  },
+  "author": "Felix",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
